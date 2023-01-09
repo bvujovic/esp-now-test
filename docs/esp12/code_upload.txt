@@ -1,0 +1,1 @@
+FTDI je postavljen na 3.3V i to prolazi iako je ispod ESPa tj. adaptera zalemljen ht7333 LDO koji spusta napon.
