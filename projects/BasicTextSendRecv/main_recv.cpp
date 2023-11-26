@@ -41,7 +41,7 @@ void loop()
   if (isDataReceived)
   {
     digitalWrite(pinLed, false);
-    delay(250);
+    delay(500);
     digitalWrite(pinLed, true);
     isDataReceived = false;
   }
